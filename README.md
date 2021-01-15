@@ -77,13 +77,6 @@ Using these features, the Gradient Boosted Trees algorithm was once again traine
 
 The results were much better than the initial attempt. With a F1-score of 89.1% for validation data, and 294 correctly identified churners, the second iteration of the model is a great first model which could be fine-tuned and improved even more.
 
-# Overview of Files
-Data Files
-README.md - This readme
-
-Sparkify.html/ipynb - notebook used for POC in Udacity Workspace
-
-mini_sparkify_event_data.json - starting data file containing the streaming music provider's user logs
 
 # Improvement
 To achieve the optimal user experience, using more capable hardware and moving the text extraction process from the cloud to the device would be essential. This would reduce the processing time and give access to the outputs of all of the modules of the text extraction pipeline, which would, in turn, enable the following features:
